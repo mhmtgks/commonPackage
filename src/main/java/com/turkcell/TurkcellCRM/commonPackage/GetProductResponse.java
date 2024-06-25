@@ -1,4 +1,4 @@
-package main.java.com.turkcell.TurkcellCRM.commonPackage;
+package java.com.turkcell.TurkcellCRM.commonPackage;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

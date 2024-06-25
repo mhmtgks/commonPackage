@@ -1,0 +1,11 @@
+java\com\turkcell\TurkcellCRM\commonPackage\GetProductResponse.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\ProductCreatedEvent.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\enums\Roles.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\BaseEntity.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\CommonPackageApplication.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\OrderCreatedEvent.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\OrderCreatedForAccountEvent.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\Gender.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\IndividualCustomerCreatedEvent.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\Main.class
+main\java\com\turkcell\TurkcellCRM\commonPackage\Product.class
