@@ -1,0 +1,11 @@
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/GetProductResponse.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/IndividualCustomerCreatedEvent.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/BaseEntity.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/ProductCreatedEvent.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/Main.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/CommonPackageApplication.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/OrderCreatedEvent.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/OrderCreatedForAccountEvent.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/Product.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/Gender.java
+/app/src/main/java/com/turkcell/TurkcellCRM/commonPackage/enums/Roles.java
