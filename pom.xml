@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.turkcell.TurkcellCRM.commonPackage</groupId>
-	<artifactId>commonPackage</artifactId>
+	<artifactId>commonpackage</artifactId>
 	<version>1.0.0</version>
 	<name>commonPackage</name>
 	<description>Demo project for Spring Boot</description>
