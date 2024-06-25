@@ -10,13 +10,11 @@
 	</parent>
 	<groupId>com.turkcell.TurkcellCRM.commonPackage</groupId>
 	<artifactId>commonPackage</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<name>commonPackage</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
